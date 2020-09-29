@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # element-test
 
 ## Project setup
@@ -27,3 +28,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# element-ui-question
+## 启动项目
+```npm i && npm run dev```
+>>>>>>> 5085263a681c87b8a0bbc9a9781464d26c02c5cc
