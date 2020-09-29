@@ -1,2 +1,3 @@
 # element-ui-question
-element-ui-question
+## 启动项目
+```npm i && npm run dev```
